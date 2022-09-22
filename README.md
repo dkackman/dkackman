@@ -1,5 +1,9 @@
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=dkackman&count_private=true&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkackman&layout=compact)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dkackman&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dkackman&langs_count=5&theme=tokyonight)]()
+
 <!--
 **dkackman/dkackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
